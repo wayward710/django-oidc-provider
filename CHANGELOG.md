@@ -4,6 +4,9 @@ All notable changes to this project will be documented in this file.
 
 ### [Unreleased]
 
+##### Fixed
+- String format error in models.
+
 ### [0.1.2] - 2015-08-04
 
 ##### Added
